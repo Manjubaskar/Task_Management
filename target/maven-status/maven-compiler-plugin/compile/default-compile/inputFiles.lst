@@ -1,0 +1,10 @@
+/home/e1066/eclipse-workspace/Task/crudapi/src/main/java/io/manju/vertx/crudapi/repository/UserDao.java
+/home/e1066/eclipse-workspace/Task/crudapi/src/main/java/io/manju/vertx/crudapi/Verticle.java
+/home/e1066/eclipse-workspace/Task/crudapi/src/main/java/io/manju/vertx/crudapi/service/RoleService.java
+/home/e1066/eclipse-workspace/Task/crudapi/src/main/java/io/manju/vertx/crudapi/service/UserService.java
+/home/e1066/eclipse-workspace/Task/crudapi/src/main/java/io/manju/vertx/crudapi/entity/Role.java
+/home/e1066/eclipse-workspace/Task/crudapi/src/main/java/io/manju/vertx/crudapi/service/TaskdetailService.java
+/home/e1066/eclipse-workspace/Task/crudapi/src/main/java/io/manju/vertx/crudapi/entity/Taskdetail.java
+/home/e1066/eclipse-workspace/Task/crudapi/src/main/java/io/manju/vertx/crudapi/repository/TaskdetailDao.java
+/home/e1066/eclipse-workspace/Task/crudapi/src/main/java/io/manju/vertx/crudapi/repository/RoleDao.java
+/home/e1066/eclipse-workspace/Task/crudapi/src/main/java/io/manju/vertx/crudapi/entity/User.java

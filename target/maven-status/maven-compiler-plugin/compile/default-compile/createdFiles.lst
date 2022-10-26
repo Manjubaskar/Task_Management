@@ -1,0 +1,10 @@
+io/manju/vertx/crudapi/entity/User.class
+io/manju/vertx/crudapi/repository/TaskdetailDao.class
+io/manju/vertx/crudapi/repository/UserDao.class
+io/manju/vertx/crudapi/entity/Role.class
+io/manju/vertx/crudapi/service/RoleService.class
+io/manju/vertx/crudapi/service/TaskdetailService.class
+io/manju/vertx/crudapi/Verticle.class
+io/manju/vertx/crudapi/entity/Taskdetail.class
+io/manju/vertx/crudapi/repository/RoleDao.class
+io/manju/vertx/crudapi/service/UserService.class
